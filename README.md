@@ -1,5 +1,3 @@
-<img width = "auto" src = 
-
 ### Olá pessoal 👋
 Estou aprendendo e estudando sobre esse universo incrivel da programação.
 
