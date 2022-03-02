@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br/">UNOPAR</a>.
 - 💼 &nbsp; Trabalhando como **Consultor Desenvolvedor** na <a href="https://www.claryen.com/">Claryen S.A</a>
-- 🌱 &nbsp; Aprendendo mais sobre ** JavaScript, React.Js, Node.Js, Typescript, Next.js**.
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript, React.Js, Node.Js, Typescript, Next.js**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
